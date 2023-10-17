@@ -9,8 +9,9 @@ from keep_alive import keep_alive
 bot = commands.Bot(command_prefix=">")
 
 # Set up authorisation token and user id here
-TOKEN = ''
-USER_ID = ''
+TOKEN = 'MTE1MzQzODc2MzkwNTcxMjIwOQ.GiVnHx.yPQaKgVNdbhNCZzaCo_bxDreM6eqrNTqVTnOwg
+'
+USER_ID = '1144046300623544461'
 
 # Set up timezone here; use -timedelta() for -UTC(s)
 UTC = +timedelta(hours=13)
